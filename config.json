@@ -1,0 +1,7 @@
+{
+  "botToken": "YOUR_BOT_TOKEN_HERE",
+  "clientId": "YOUR_CLIENT_ID_HERE",
+  "guildId": "YOUR_SERVER_ID_HERE",
+  "reviewChannelId": "YOUR_ADMIN_REVIEW_CHANNEL_ID_HERE",
+  "archiveChannelId": "YOUR_PUBLIC_ARCHIVE_CHANNEL_ID_HERE"
+}
