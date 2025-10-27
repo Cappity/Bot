@@ -1,0 +1,15 @@
+{
+  "name": "discord-loa-bot-pro",
+  "version": "2.0.0",
+  "description": "A professional, structured Discord bot for managing Leave of Absence requests.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "firebase": "^10.12.3"
+  }
+}
+
